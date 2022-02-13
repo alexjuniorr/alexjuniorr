@@ -1,4 +1,4 @@
-## Hello, I'm Alex Junior student of Technology Management
+## Hi <img src="https://c.tenor.com/WX8OXgN5VpMAAAAi/waving-wave-hello.gif" width="30px">, I'm Alex Junior student of Technology Management
 
 - 📖 Studying the ITIL Methodology
 - 👔 The search for a first job
