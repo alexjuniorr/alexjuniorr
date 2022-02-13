@@ -1,16 +1,12 @@
-### Hi there 👋
+## Hello, I'm Alex Junior student of Technology Management
 
-<!--
-**alexjuniorr/alexjuniorr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📖 Studying the ITIL Methodology
+- 👔 The search for a first job
+- 😁 Pronouns: he/his
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/alexjuniorr">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexjuniorr&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+</div>
+  
+![Snake animation](https://github.com/alexjuniorr/alexjuniorr/blob/output/github-contribution-grid-snake.svg)
