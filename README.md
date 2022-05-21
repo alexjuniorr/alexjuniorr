@@ -1,7 +1,7 @@
 ## Hi <img src="https://c.tenor.com/WX8OXgN5VpMAAAAi/waving-wave-hello.gif" width="35px">, I'm Alex Junior student of Technology Management
 
 - 📖 Studying the ITIL Methodology
-- 👔 The search for a first job
+- 🔭 I’m currently working at[IBM](https://www.ibm.com/br-pt) 
 - 😁 Pronouns: he/his
 
 <div align="center">
