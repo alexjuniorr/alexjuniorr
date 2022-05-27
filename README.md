@@ -1,6 +1,6 @@
 ## Hi <img src="https://c.tenor.com/WX8OXgN5VpMAAAAi/waving-wave-hello.gif" width="35px">, I'm Alex Junior
 
-- 📖  I’m currently learning Kanban, CyberSecurity, LGPD
+- 📖  I’m currently learning CyberSecurity, LGPD, Compliance
 - 🔭 I’m currently working at [IBM](https://www.ibm.com) 
 - 😁 Pronouns: he/his
 
