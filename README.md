@@ -1,4 +1,4 @@
-## Hi <img src="https://c.tenor.com/WX8OXgN5VpMAAAAi/waving-wave-hello.gif" width="35px">, I'm Alex Junior student of Technology Management
+## Hi <img src="https://c.tenor.com/WX8OXgN5VpMAAAAi/waving-wave-hello.gif" width="35px">, I'm Alex Junior
 
 - 📖 Studying the ITIL Methodology
 - 🔭 I’m currently working at [IBM](https://www.ibm.com) 
