@@ -7,3 +7,8 @@
 - 📖  I’m currently learning CyberSecurity, LGPD, Compliance
 - 🔭 I’m currently working at [IBM](https://www.ibm.com) 
 - 😁 Pronouns: he/his
+
+#### Contato ⤵️
+
+[![Linkedin Badge](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-junior/) &nbsp;
+[![Gmail Badge](https://img.shields.io/badge/GMAIL-%23DC322F.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexalencarjr@outlook.com)
