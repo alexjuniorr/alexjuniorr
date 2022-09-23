@@ -1,11 +1,11 @@
 <h1 align="center">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Sou Alex Junior</h1>
 <p align="center"></p>
 
-- 🔥 Estudante de Gestão de Tecnologia e CyberSecurity
+- 👨‍🎓 Estudante de Gestão de Tecnologia e CyberSecurity
 
-- 🔭 Trabalho Atualmente na [IBM](https://www.ibm.com/br-pt)
+- 👨‍💻 Trabalho Atualmente na [IBM](https://www.ibm.com/br-pt)
 
-- 🌱 Aprendendo Sempre novos Recursos, Atualmente aprendendo Threat Management, Pentesting, Linux.
+- 📚 Sempre me atualizando, Atualmente aprendendo Threat Management, Pentesting, Linux.
 
 <br>
 
