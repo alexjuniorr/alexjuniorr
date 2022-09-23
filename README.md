@@ -5,7 +5,7 @@
 
 - 🔭 Trabalho Atualmente na [IBM](https://www.ibm.com/br-pt)
 
-- 🌱 Aprendendo Sempre novos Recursos, Atualmente aprendendo React.JS, TypeScrypt, Api.rest.
+- 🌱 Aprendendo Sempre novos Recursos, Atualmente aprendendo Threat Management, Pentesting, Linux.
 
 <br>
 
