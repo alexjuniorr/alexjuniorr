@@ -8,8 +8,6 @@
 - 🔭 I’m currently working at [IBM](https://www.ibm.com) 
 - 😁 Pronouns: he/his
 
-![Alex Junior github stats](https://github-readme-stats.vercel.app/api?username=alexjuniorr&count_private=true&show_icons=true&theme=tokyonight)
-
 <hr>
 
 <p align="left">Contato🔽</p>
