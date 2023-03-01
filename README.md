@@ -5,7 +5,7 @@
 
 - 👨‍💻 Trabalho Atualmente na [IBM](https://www.ibm.com/br-pt)
 
-- 📚 Atualmente aprendendo Network Architecture, Cloud e Contêineres.
+- 📚 Atualmente aprendendo Cloud Architectures, Contêineres, Azure.
 
 <br>
 
