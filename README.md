@@ -3,7 +3,7 @@
 
 - 👨‍🎓 Estudante de Gestão de Tecnologia e CyberSec
 
-- 👨‍💻 Trabalho Atualmente na [IBM](https://www.ibm.com/br-pt)
+- 👨‍💻 Trabalho Atualmente na [Redbelt Security](https://www.redbelt.com.br)
 
 - 📚 Atualmente aprendendo Cloud Architectures, Contêineres, Azure.
 
