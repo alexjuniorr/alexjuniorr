@@ -1,11 +1,9 @@
 <h1 align="center">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Sou Alex Junior</h1>
 <p align="center"></p>
 
-- 👨‍🎓 Estudante de Gestão de Tecnologia e CyberSec
+- 👨‍🎓 Estudante e Arquiteto de Cybersec
 
-- 👨‍💻 Trabalho Atualmente na [Redbelt Security](https://www.redbelt.com.br)
-
-- 📚 Atualmente aprendendo Cloud Architectures, Contêineres, Azure.
+- 👨‍💻 Trabalho Atualmente nO [banco BV](https://www.bv.com.br/)
 
 <br>
 
