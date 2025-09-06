@@ -3,7 +3,7 @@
 
 - 👨‍🎓 Estudante e Arquiteto de Cybersec
 
-- 👨‍💻 Trabalho Atualmente nO [banco BV](https://www.bv.com.br/)
+- 👨‍💻 Trabalho Atualmente no [banco BV](https://www.bv.com.br/)
 
 <br>
 
