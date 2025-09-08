@@ -16,10 +16,10 @@
 <a href="https://www.linkedin.com/in/alex-junior/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
 </a>
+<a href="https://alexjunior.xyz" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="beacons"/>
+</a>
 <a href="mailto:alexalencarjr@outlook.com" target="_blank">
  <img align="center" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="outlook"/>
-</a>
-<a href="https://beacons.ai/alex_junior" target="_blank">
- <img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="beacons"/>
 </a>
 </p>
