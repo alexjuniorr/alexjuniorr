@@ -1,63 +1,166 @@
-<!-- HEADER ANIMADO -->
+<!-- HEADER -->
 <div align="center">
 
 ```
-██████╗██╗   ██╗██████╗ ███████╗██████╗ ███████╗███████╗ ██████╗
-██╔════╝╚██╗ ██╔╝██╔══██╗██╔════╝██╔══██╗██╔════╝██╔════╝██╔════╝
-██║      ╚████╔╝ ██████╔╝█████╗  ██████╔╝███████╗█████╗  ██║     
-██║       ╚██╔╝  ██╔══██╗██╔══╝  ██╔══██╗╚════██║██╔══╝  ██║     
-╚██████╗   ██║   ██████╔╝███████╗██║  ██║███████║███████╗╚██████╗
- ╚═════╝   ╚═╝   ╚═════╝ ╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝ ╚═════╝
+ █████╗ ██████╗  ██████╗██╗  ██╗██╗████████╗███████╗ ██████╗████████╗
+██╔══██╗██╔══██╗██╔════╝██║  ██║██║╚══██╔══╝██╔════╝██╔════╝╚══██╔══╝
+███████║██████╔╝██║     ███████║██║   ██║   █████╗  ██║        ██║   
+██╔══██║██╔══██╗██║     ██╔══██║██║   ██║   ██╔══╝  ██║        ██║   
+██║  ██║██║  ██║╚██████╗██║  ██║██║   ██║   ███████╗╚██████╗   ██║   
+╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚═╝   ╚═╝   ╚══════╝ ╚═════╝   ╚═╝  
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Security+Architect+%7C+MBA+USP;Defending+the+digital+perimeter...;Threat+hunting+in+the+neon+dark...;Zero+trust.+Always.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=750&lines=Security+Architect+%7C+MBA+USP+%7C+Banco+BV;Designing+defenses+that+think+before+attackers+do...;Automating+the+kill+chain+—+on+the+defender%27s+side...;Architecture+is+the+first+line+of+defense.;If+it%27s+not+automated%2C+it%27s+a+liability.)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-<!-- STATUS CARD -->
+<!-- WHOAMI -->
 <div align="center">
 
 ```bash
-[root@neon-city ~]$ whoami
+[root@sec-arch ~]$ sudo cat /etc/operator.profile
 ```
 
 </div>
 
-<img align="right" width="350" src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" alt="Matrix Rain" />
+<img align="right" width="340" src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" alt="Matrix Rain"/>
 
 ```python
-class AlexJunior:
-    
-    role        = "Cybersecurity Architect"
+class SecurityArchitect:
+
+    name        = "Alex Junior"
+    role        = "Security Architect & Automation Engineer"
     location    = "São Paulo, Brasil 🇧🇷"
-    education   = "MBA em Engenharia de Software @ USP"
-    employer    = "Banco BV"
-    clearance   = "TOP_SECRET :: EYES_ONLY"
-    
-    focus = [
-        "Security Architecture",
-        "Threat Modeling",
-        "Zero Trust Networks",
-        "Secure Software Engineering",
+    employer    = "Financial Institution"
+    education   = "MBA em Engenharia de Software @USP"
+    clearance   = "CONFIDENTIAL :: NEED_TO_KNOW"
+
+    domains = [
+        "Security Architecture & Design",
+        "Security Automation (SOAR / SIEM)",
+        "Threat Modeling (STRIDE / MITRE ATT&CK)",
+        "Zero Trust Architecture",
+        "DevSecOps & Secure SDLC",
+        "API Security & Identity",
     ]
-    
-    current_mission = "Hardening enterprise systems against APTs"
-    
-    def threat_response(self, attack):
-        return self.detect(attack) \
-                   .analyze() \
-                   .contain() \
-                   .eradicate() \
-                   .recover()
+
+    current_mission = """
+        Architecting automated defense pipelines
+        that detect, respond and recover — faster
+        than any human team ever could.
+    """
+
+    def design_secure_system(self, requirements):
+        blueprint = self.threat_model(requirements)
+        blueprint.apply_zero_trust()
+        blueprint.automate_response_playbooks()
+        blueprint.validate_with_red_team()
+        return blueprint.deploy()
 ```
 
 <br clear="right"/>
 
 ---
 
-<!-- ESTATÍSTICAS -->
+<!-- SECURITY ARCHITECTURE PIPELINE -->
+## `> architect --draw-pipeline`
+
+```
+┌─────────────────────────────────────────────────────────────────────────┐
+│              [ AUTOMATED SECURITY ARCHITECTURE PIPELINE ]               │
+├──────────────┬──────────────┬──────────────┬───────────────┬────────────┤
+│   DESIGN     │   BUILD      │   DETECT     │   RESPOND     │  RECOVER   │
+│              │              │              │               │            │
+│ Threat Model │ Secure SDLC  │ SIEM / EDR   │ SOAR Playbook │ Runbooks   │
+│ STRIDE/ATT&CK│ IaC Security │ Anomaly AI   │ Auto-Isolate  │ Post-Mortem│
+│ Zero Trust   │ SAST / DAST  │ Log Pipeline │ Ticket+Alert  │ Hardening  │
+│ Architecture │ Secret Scan  │ Threat Intel │ Forensics     │ Lessons    │
+└──────────────┴──────────────┴──────────────┴───────────────┴────────────┘
+         │              │              │               │            │
+         └──────────────┴──────────────┴───────────────┴────────────┘
+                                  AUTOMATED LOOP ♻️
+```
+
+---
+
+<!-- STACK -->
+## `> load_modules --domain security-arch automation`
+
+<div align="center">
+
+### 🏛️ Security Architecture
+
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-CC0000?style=for-the-badge&logo=mitre&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![Zero Trust](https://img.shields.io/badge/Zero_Trust-6A0DAD?style=for-the-badge&logo=cloudflare&logoColor=white)
+![NIST](https://img.shields.io/badge/NIST_CSF-003087?style=for-the-badge&logo=nist&logoColor=white)
+![ISO 27001](https://img.shields.io/badge/ISO_27001-0066CC?style=for-the-badge&logoColor=white)
+
+### ⚙️ Security Automation & SOAR
+
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Elastic](https://img.shields.io/badge/Elastic_SIEM-005571?style=for-the-badge&logo=elastic&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+### 🔍 Detection & Response
+
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Suricata](https://img.shields.io/badge/Suricata_IDS-EF7B00?style=for-the-badge&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh_XDR-3AAFE4?style=for-the-badge&logoColor=white)
+![YARA](https://img.shields.io/badge/YARA_Rules-CC2020?style=for-the-badge&logoColor=white)
+![Sigma](https://img.shields.io/badge/Sigma_Rules-444444?style=for-the-badge&logoColor=white)
+
+### ☁️ Cloud & Infrastructure Security
+
+![AWS](https://img.shields.io/badge/AWS_Security-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+![Terraform](https://img.shields.io/badge/Terraform_IaC-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Container_Sec-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/K8s_Hardening-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### 🔑 Identity & API Security
+
+![OAuth2](https://img.shields.io/badge/OAuth2_/_OIDC-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
+![Vault](https://img.shields.io/badge/HashiCorp_Vault-FFEC6E?style=for-the-badge&logo=vault&logoColor=black)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+</div>
+
+---
+
+<!-- SOC DASHBOARD -->
+## `> soc_dashboard --live`
+
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║          [ SOC AUTOMATION DASHBOARD — ONLINE :: REAL-TIME ]         ║
+╠══════════════════════════════════════════════════════════════════════╣
+║                                                                      ║
+║  MODULE               STATUS         COVERAGE    AUTO-RESPONSE       ║
+║  ─────────────────────────────────────────────────────────────────   ║
+║  🟢 SIEM Pipeline     INGESTING       100%        ENABLED            ║
+║  🟢 SOAR Playbooks    ARMED           37 rules    AUTO-TRIAGE        ║
+║  🟢 Threat Intel Feed SYNCING         MITRE+OSINT ENRICHMENT ON      ║
+║  🟢 IaC Security Scan CI/CD GATE      PRE-DEPLOY  BLOCK ON FAIL      ║
+║  🟢 Secret Detection  MONITORING      ALL REPOS   REVOKE+ALERT       ║
+║  🟡 Red Team Sim      SCHEDULED       Q3 2026     PENDING            ║
+║  🟢 Zero Trust IAM    ENFORCING       ALL LAYERS  MFA+DEVICE CHECK   ║
+║  🟢 Patch Automation  RUNNING         98.4%       AUTO-REMEDIATE     ║
+║                                                                      ║
+║  MBA USP Progress  [█████████░] 90%   Alerts Today : 0 (P0/P1)      ║
+╠══════════════════════════════════════════════════════════════════════╣
+║  >> AXIOM: "Automate the boring. Architect the critical."            ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+---
+
+<!-- STATS -->
 ## `> system.stats --verbose`
 
 <div align="center">
@@ -66,87 +169,46 @@ class AlexJunior:
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexjuniorr&theme=chartreuse-dark&border=00FF41&ring=00FF41&fire=FF6E00&currStreakLabel=00FF41&background=0d1117" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexjuniorr&theme=chartreuse-dark&border=00FF41&ring=00FF41&fire=FF6E00&currStreakLabel=00FF41&background=0d1117"/>
 </div>
 
 ---
 
-<!-- SKILLS -->
-## `> scan_arsenal --list-weapons`
-
-<div align="center">
-
-### 🔐 Security Stack
-
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
-
-### 🧱 Infrastructure & Cloud
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-
-### 💻 Dev & Engineering
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-</div>
-
----
-
-<!-- THREAT BOARD -->
-## `> threat_board --status`
-
-```
-╔═══════════════════════════════════════════════════════════════╗
-║            [ SECURITY OPERATIONS CENTER — ATIVO ]            ║
-╠═══════════════════════════════════════════════════════════════╣
-║  🔴  Threat Level   : MEDIUM                                  ║
-║  🟢  Firewall       : ONLINE                                  ║
-║  🟢  IDS/IPS        : MONITORING                              ║
-║  🟢  Encryption     : AES-256-GCM                             ║
-║  🟡  MBA Progress   : [████████░░] 80% — USP                  ║
-║  🟢  Patch Status   : UP TO DATE                              ║
-║  🔵  Current Op     : Hardening BV banking infra              ║
-╠═══════════════════════════════════════════════════════════════╣
-║  >> "The quieter you become, the more you can hear." — Kali  ║
-╚═══════════════════════════════════════════════════════════════╝
-```
-
----
-
-<!-- CONTRIBUIÇÃO -->
+<!-- ACTIVITY -->
 ## `> git_activity --graph`
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alexjuniorr&bg_color=0d1117&color=00FF41&line=00FF41&point=FFFFFF&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alexjuniorr&bg_color=0d1117&color=00FF41&line=00FF41&point=FFFFFF&area=true&hide_border=true"/>
 </div>
 
 ---
 
-<!-- MANIFESTO -->
-## `> cat /etc/philosophy.conf`
+<!-- ARCHITECTURE MANIFESTO -->
+## `> cat /etc/arch_manifesto.conf`
 
-```
-[AXIOMS]
-  trust_nobody     = TRUE          # Zero Trust Architecture
-  patch_everything = ASAP          # CVEs won't patch themselves
-  log_everything   = TRUE          # If it's not logged, it didn't happen
-  defense_in_depth = ALWAYS        # Layers on layers on layers
-  assume_breach    = TRUE          # Hope for the best, plan for the worst
+```yaml
+# /etc/arch_manifesto.conf
+# Security Architecture Principles — Alex Junior
+
+[ARCHITECTURE]
+  design_for_breach      : true    # Systems WILL be compromised — design accordingly
+  least_privilege        : always  # Every identity, every service, every layer
+  zero_trust             : enforced # Never trust, always verify — network is hostile
+  defense_in_depth       : layered  # No single control is sufficient
+  security_by_design     : phase_0  # Not a retrofit — built from the first commit
+
+[AUTOMATION]
+  manual_response        : deprecated   # Humans set the rules; machines execute them
+  playbook_driven        : mandatory    # Every incident has a pre-approved response
+  detection_as_code      : sigma+yara   # Rules versioned, tested, and deployed via CI/CD
+  infrastructure_as_code : terraform    # No manual firewall rules. Ever.
+  alert_fatigue          : unacceptable # Tune until every alert demands action
 
 [MINDSET]
-  attacker_mindset = ENABLED       # Know your adversary
-  continuous_learning = MANDATORY  # The threat landscape never sleeps
-  sec_by_design   = TRUE          # Security is not a feature — it's a foundation
+  threat_modeling        : before_design    # STRIDE before sprint 1
+  red_team_mindset       : always_on        # Design as attacker, build as defender
+  assume_compromise      : true             # MTTR beats prevention in 2025
+  continuous_hardening   : automated        # CIS benchmarks run on every deploy
 ```
 
 ---
@@ -168,11 +230,11 @@ class AlexJunior:
 <div align="center">
 
 ```
-> "In God we trust. All others we monitor."
+> "Security is not a product. It's an architecture — automated, layered, and never done."
 ```
 
-![Profile Views](https://komarev.com/ghpvc/?username=alexjuniorr&style=for-the-badge&color=00FF41&label=INTRUDERS+DETECTED)
+![Profile Views](https://komarev.com/ghpvc/?username=alexjuniorr&style=for-the-badge&color=00FF41&label=RECON+ATTEMPTS)
 
-<sub>⚡ Encrypted with purpose. Architected with precision. Built in the neon dark. ⚡</sub>
+<sub>⚡ Architected with intent. Automated with precision. Defended in the neon dark. ⚡</sub>
 
 </div>
