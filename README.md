@@ -10,7 +10,7 @@
 ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚═╝   ╚═╝   ╚══════╝ ╚═════╝   ╚═╝  
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=750&lines=Security+Architect+%7C+MBA+USP+%7C+Banco+BV;Designing+defenses+that+think+before+attackers+do...;Automating+the+kill+chain+—+on+the+defender%27s+side...;Architecture+is+the+first+line+of+defense.;If+it%27s+not+automated%2C+it%27s+a+liability.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=750&lines=Security+Architect+%7C+MBA+USP;Designing+defenses+that+think+before+attackers+do...;Automating+the+kill+chain+%E2%80%94+on+the+defender%27s+side...;Architecture+is+the+first+line+of+defense.;If+it%27s+not+automated%2C+it%27s+a+liability.)](https://git.io/typing-svg)
 
 </div>
 
